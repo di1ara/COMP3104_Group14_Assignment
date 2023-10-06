@@ -1,0 +1,15 @@
+Title: COMP3104 - DevOps Course Information
+
+The COMP 3104 DevOps course is designed to provide students with a comprehensive understanding of DevOps principles, practices, and tools. This course explores the intersection of development (Dev) and IT operations (Ops), emphasizing collaboration, automation, and continuous integration/continuous deployment (CI/CD) pipelines.
+
+Course Objectives:-------------------
+- Understand the principles and benefits of DevOps.
+- Gain proficiency in Git and version control.
+- Build and automate CI/CD pipelines.
+- Learn to manage infrastructure as code.
+- Implement containerization and orchestration.
+- Explore monitoring, logging, and security in a DevOps environment.
+
+Instructor:
+-----------
+- Pritesh Patel
