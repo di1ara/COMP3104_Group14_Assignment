@@ -1,2 +1,3 @@
  
 Welcome to COMP3104 DevOps Course. 
+The COMP 3104 DevOps course covers topics like automation and continuous integration. 
