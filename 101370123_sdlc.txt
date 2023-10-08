@@ -1,0 +1,2 @@
+ 
+"DevOps engineers play a crucial role in the software development life cycle (SDLC). They help streamline the development process, improve collaboration between teams, and ensure faster and more reliable software delivery." 
