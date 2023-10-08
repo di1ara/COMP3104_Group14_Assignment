@@ -1,0 +1,2 @@
+ 
+"The COMP 3104 DevOps course at George Brown College covers various aspects of DevOps, including automation, continuous integration, and deployment strategies." 
