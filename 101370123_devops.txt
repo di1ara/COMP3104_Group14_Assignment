@@ -1,0 +1,4 @@
+ 
+"The COMP 3104 DevOps course at George Brown College covers various aspects of DevOps, including automation, continuous integration, and deployment strategies." 
+"Continuous integration (CI) is a DevOps practice that helps identify and fix bugs early in the development process, leading to higher software quality." 
+"DevOps practices also promote closer collaboration between development and operations teams, leading to smoother software deployments and operations." 
